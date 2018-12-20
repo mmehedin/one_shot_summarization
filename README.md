@@ -2,7 +2,7 @@
 
 -----
 
-## Summary:
+### Summary:
 
 based on: https://machinelearningmastery.com/encoder-decoder-models-text-summarization-keras/
 
@@ -20,7 +20,7 @@ Goal: one shot summarization
 
 ### Repo work:
 
-[![Gihub work viz](https://raw.githubusercontent.com/mmehedin/one_shot_summarization/master/temp/output.png)](https://raw.githubusercontent.com/mmehedin/one_shot_summarization/master/temp/output.mp4)
+[![Gihub work viz](https://raw.githubusercontent.com/mmehedin/one_shot_summarization/master/temp/output.png)](https://youtu.be/FkW8_dybynM)
 
 Reference: https://gource.io/#
 -----
