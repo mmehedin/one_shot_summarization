@@ -22,4 +22,5 @@ Goal: one shot summarization
 
 [![Gihub work viz](https://raw.githubusercontent.com/mmehedin/one_shot_summarization/master/temp/output.png)](https://raw.githubusercontent.com/mmehedin/one_shot_summarization/master/temp/output.mp4)
 
+Reference: https://gource.io/#
 -----
