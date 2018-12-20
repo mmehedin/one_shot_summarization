@@ -20,7 +20,8 @@ Goal: one shot summarization
 
 ### Repo work:
 
-[![Gihub work viz](https://raw.githubusercontent.com/mmehedin/one_shot_summarization/master/temp/output.png)](https://youtu.be/FkW8_dybynM)
+[![Gihub work viz](https://raw.githubusercontent.com/mmehedin/one_shot_summarization/master/temp/output.png)](https://youtu.be/FkW8_dybynM "One shot")
+[![Gihub work viz](https://raw.githubusercontent.com/mmehedin/one_shot_summarization/master/temp/output.png)](https://raw.githubusercontent.com/mmehedin/summarization/master/temp/output.gif)
 
 Reference: https://gource.io/#
 -----
